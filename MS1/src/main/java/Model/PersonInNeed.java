@@ -16,7 +16,7 @@ public class PersonInNeed {
     private String password;
     private String role;
 
-    // Constructeur par défaut
+    // Constructeur par défaut   
     public PersonInNeed() {
     }
 
